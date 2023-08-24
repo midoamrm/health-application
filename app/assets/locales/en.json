@@ -1,0 +1,19 @@
+{
+  "text0": "Hello world",
+  "text1": "Some text goes here, some more text goes here",
+  "Testing": "Testing",
+  "lang1": "Change Language",
+  "text2": "Go to Inner screen ->",
+  "Home": "Home",
+  "Language": "Language",
+  "googel":  "sign in with googel account",
+  "facebook": "sign in with facebook account",
+  "signin":"sign in",
+  "main":"main page",
+  "signout":"sign out",
+  "create":"create new account",
+  "use":"for use town services please sign in ",
+  "email":"email",
+  "password":"password"
+
+}
